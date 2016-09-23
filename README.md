@@ -1,3 +1,3 @@
-# imageCollectionView
+# imageScollView
 
 Simple image scroll view
